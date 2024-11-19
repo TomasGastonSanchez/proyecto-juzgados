@@ -1,0 +1,14 @@
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.vbproj.AssemblyReference.cache
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.vbproj.SuggestedBindingRedirects.cache
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.frmLogin.resources
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.frmMenu.resources
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.Resources.resources
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.vbproj.GenerateResource.cache
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.vbproj.CoreCompileInputs.cache
+F:\Proy2_2023\Proy2_2023\bin\Debug\Proy2_2023.exe.config
+F:\Proy2_2023\Proy2_2023\bin\Debug\Proy2_2023.exe
+F:\Proy2_2023\Proy2_2023\bin\Debug\Proy2_2023.pdb
+F:\Proy2_2023\Proy2_2023\bin\Debug\Proy2_2023.xml
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.exe
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.xml
+F:\Proy2_2023\Proy2_2023\obj\Debug\Proy2_2023.pdb
